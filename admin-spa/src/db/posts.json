@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Post title",
+    "summary": "Post summary",
+    "author": "Post author",
+    "description": "Post description"
+  },
+  {
+    "id": "2",
+    "title": "Post title 1",
+    "summary": "Post summary 1",
+    "author": "Post author 1",
+    "description": "Post description 1"
+  }
+]
